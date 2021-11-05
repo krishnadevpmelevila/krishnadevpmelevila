@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **CyberSecurity,Python,DS,Javascript,C,PHP**
 
-- 📫 How to reach me **krishnadevpmelevila@gmail.com**
+- 📫 Reach me at **krishnadevpmelevila@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnadevpmelevila&show_icons=true&locale=en" alt="krishnadevpmelevila" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnadevpmelevila&" alt="krishnadevpmelevila" /></p>.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnadevpmelevila&" alt="krishnadevpmelevila" /></p>
