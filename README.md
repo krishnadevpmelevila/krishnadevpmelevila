@@ -23,6 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Offered Free 1 Lakh Rupees Through Government Website?](https://infosecwriteups.com/how-i-offered-free-1-lakh-rupees-through-government-website-6c10e16130fc?source=rss-f84eab03c7fe------2)
+- [Exposing millions of critical data on Kerala Civil Supplies Website!](https://infosecwriteups.com/exposing-millions-of-critical-data-on-kerala-civil-supplies-website-cc3a4bed5d07?source=rss-f84eab03c7fe------2)
+- [How I hacked a news website?](https://infosecwriteups.com/how-i-hacked-a-news-website-f753fe2f80f9?source=rss-f84eab03c7fe------2)
+- [How did I become a doctor using XSS vulnerability?](https://infosecwriteups.com/how-did-i-become-a-doctor-using-xss-vulnerability-bce190fc114a?source=rss-f84eab03c7fe------2)
+- [Payment Bypass In University Admission Allotment System.](https://medium.com/techiepedia/payment-bypass-in-university-admission-allotment-system-616fe4cc3d46?source=rss-f84eab03c7fe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
