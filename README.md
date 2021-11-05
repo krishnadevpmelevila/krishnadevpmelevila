@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnadev P Melevila</h1>
-<h3 align="center">Self Learned Ethical Hacker | Cyber Security Enthusiast | Secured</h3>
+<h3 align="center">Self Learned Ethical Hacker | Cyber Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnadevpmelevila&label=Profile%20views&color=0e75b6&style=flat" alt="krishnadevpmelevila" /> </p>
 
