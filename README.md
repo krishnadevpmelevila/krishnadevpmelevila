@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Bypassed Netflix Profile Lock?](https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c?source=rss-f84eab03c7fe------2)
 - [Leaked Database of CGG Website: GOVT- BUG &lpar;CRITICAL&rpar;](https://krishnadevpmelevila.medium.com/leaked-database-of-cgg-website-govt-bug-critical-c0c4a418768b?source=rss-f84eab03c7fe------2)
 - [How I Become a Government Official Using a Vulnerability.](https://infosecwriteups.com/how-i-become-a-government-official-using-a-vulnerability-4605a2db47f0?source=rss-f84eab03c7fe------2)
 - [How I Offered Free 1 Lakh Rupees Through Government Website?](https://infosecwriteups.com/how-i-offered-free-1-lakh-rupees-through-government-website-6c10e16130fc?source=rss-f84eab03c7fe------2)
 - [Exposing millions of critical data on Kerala Civil Supplies Website!](https://infosecwriteups.com/exposing-millions-of-critical-data-on-kerala-civil-supplies-website-cc3a4bed5d07?source=rss-f84eab03c7fe------2)
-- [How I hacked a news website?](https://infosecwriteups.com/how-i-hacked-a-news-website-f753fe2f80f9?source=rss-f84eab03c7fe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
