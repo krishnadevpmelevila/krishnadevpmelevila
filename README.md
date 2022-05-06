@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Secured More Than 10 Million User&#39;s Data on the Kerala Government Website Maintained by NIC.](https://infosecwriteups.com/i-secured-more-than-10-million-users-data-on-the-kerala-government-website-maintained-by-nic-fb7d5a9f156b?source=rss-f84eab03c7fe------2)
 - [API authentication bypass on National Informatics Centre](https://infosecwriteups.com/api-authentication-bypass-on-national-informatics-centre-d438b3bae085?source=rss-f84eab03c7fe------2)
 - [OTP Bypass and Account Takeover at &lt;Redacted&gt;Hospital](https://infosecwriteups.com/otp-bypass-and-account-takeover-at-redacted-hospital-a49253411212?source=rss-f84eab03c7fe------2)
 - [How I Bypassed Netflix Profile Lock?](https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c?source=rss-f84eab03c7fe------2)
 - [Leaked Database of CGG Website: GOVT- BUG &lpar;CRITICAL&rpar;](https://krishnadevpmelevila.medium.com/leaked-database-of-cgg-website-govt-bug-critical-c0c4a418768b?source=rss-f84eab03c7fe------2)
-- [How I Become a Government Official Using a Vulnerability.](https://infosecwriteups.com/how-i-become-a-government-official-using-a-vulnerability-4605a2db47f0?source=rss-f84eab03c7fe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
