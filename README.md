@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML Injection On Trio App](https://infosecwriteups.com/html-injection-on-trio-app-92f039c500a7?source=rss-f84eab03c7fe------2)
+- [HTML Injection On Trio App](https://krishnadevpmelevila.medium.com/html-injection-on-trio-app-92f039c500a7?source=rss-f84eab03c7fe------2)
 - [OTP Bypass on Vahak.in](https://infosecwriteups.com/otp-bypass-on-vahak-in-f4931e195697?source=rss-f84eab03c7fe------2)
 - [I Secured More Than 10 Million User&#39;s Data on the Kerala Government Website Maintained by NIC.](https://infosecwriteups.com/i-secured-more-than-10-million-users-data-on-the-kerala-government-website-maintained-by-nic-fb7d5a9f156b?source=rss-f84eab03c7fe------2)
 - [API authentication bypass on National Informatics Centre](https://infosecwriteups.com/api-authentication-bypass-on-national-informatics-centre-d438b3bae085?source=rss-f84eab03c7fe------2)
