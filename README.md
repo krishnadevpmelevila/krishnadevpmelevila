@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe Confidential Walk-through](https://infosecwriteups.com/tryhackme-confidential-walk-through-8b8294579134?source=rss-f84eab03c7fe------2)
+- [Confidential — TryHackMe Walkthrough](https://infosecwriteups.com/tryhackme-confidential-walk-through-8b8294579134?source=rss-f84eab03c7fe------2)
 - [Telangana, Andhra Pradesh, Karnataka, Himachal Pradesh &amp; Kerala — All Government bus services were…](https://infosecwriteups.com/telangana-andhra-pradesh-karnataka-himachal-pradesh-kerala-all-government-bus-services-were-885b44c21a?source=rss-f84eab03c7fe------2)
 - [HTML Injection On Trio App](https://krishnadevpmelevila.medium.com/html-injection-on-trio-app-92f039c500a7?source=rss-f84eab03c7fe------2)
 - [I Secured More Than 10 Million User&#39;s Data on the Kerala Government Website Maintained by NIC.](https://infosecwriteups.com/i-secured-more-than-10-million-users-data-on-the-kerala-government-website-maintained-by-nic-fb7d5a9f156b?source=rss-f84eab03c7fe------2)
