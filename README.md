@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My first experience in hosting a National Level Capture The Flag Competition](https://krishnadevpmelevila.medium.com/my-first-experience-in-hosting-a-national-level-capture-the-flag-competition-f274eb9db0f7?source=rss-f84eab03c7fe------2)
+- [My first experience in hosting a National Level Capture The Flag Competition](https://infosecwriteups.com/my-first-experience-in-hosting-a-national-level-capture-the-flag-competition-f274eb9db0f7?source=rss-f84eab03c7fe------2)
 - [Confidential — TryHackMe Walkthrough](https://infosecwriteups.com/tryhackme-confidential-walk-through-8b8294579134?source=rss-f84eab03c7fe------2)
 - [Telangana, Andhra Pradesh, Karnataka, Himachal Pradesh &amp; Kerala — All Government bus services were…](https://infosecwriteups.com/telangana-andhra-pradesh-karnataka-himachal-pradesh-kerala-all-government-bus-services-were-885b44c21a?source=rss-f84eab03c7fe------2)
 - [HTML Injection On Trio App](https://krishnadevpmelevila.medium.com/html-injection-on-trio-app-92f039c500a7?source=rss-f84eab03c7fe------2)
