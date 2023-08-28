@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My experience in delivering a session on security testing at Naval Base Kochi.](https://infosecwriteups.com/my-experience-in-delivering-a-session-on-security-testing-at-naval-base-kochi-1df9c81debbb?source=rss-f84eab03c7fe------2)
 - [How I Hacked the Department of Telecommunications?](https://infosecwriteups.com/how-i-hacked-the-department-of-telecommunications-59e50a57da93?source=rss-f84eab03c7fe------2)
 - [I received a bounty of $60 for finding a critical bug in the patient management system.](https://infosecwriteups.com/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e?source=rss-f84eab03c7fe------2)
 - [How did I hacked the Dutch government and made it into the Hall of Fame?](https://infosecwriteups.com/how-did-i-hacked-the-dutch-government-and-made-it-into-the-hall-of-fame-e31fb71d1d8e?source=rss-f84eab03c7fe------2)
 - [FOSS BUFF3R CTF WRITEUP](https://infosecwriteups.com/foss-buff3r-ctf-writeup-dc6ce5dcf554?source=rss-f84eab03c7fe------2)
-- [How I was able to hack anonymous texting services?](https://infosecwriteups.com/how-i-was-able-to-hack-anonymous-texting-services-a6ceab46aa40?source=rss-f84eab03c7fe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
