@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Changed Someone’s Profile Picture… And They Had No Idea!!](https://infosecwriteups.com/i-changed-someones-profile-picture-and-they-had-no-idea-a1dc621d12c4?source=rss-f84eab03c7fe------2)
 - [HOW I HACKED NASA?](https://infosecwriteups.com/how-i-hacked-nasa-0715b6b5d7b8?source=rss-f84eab03c7fe------2)
 - [How I was able to find BAC on the University website leading to result dumping?](https://infosecwriteups.com/how-i-was-able-to-find-bac-on-the-university-website-leading-to-result-dumping-36e1f35fbecd?source=rss-f84eab03c7fe------2)
 - [My experience in delivering a session on security testing at Naval Base Kochi.](https://krishnadevpmelevila.medium.com/my-experience-in-delivering-a-session-on-security-testing-at-naval-base-kochi-1df9c81debbb?source=rss-f84eab03c7fe------2)
 - [How I Hacked the Department of Telecommunications?](https://infosecwriteups.com/how-i-hacked-the-department-of-telecommunications-59e50a57da93?source=rss-f84eab03c7fe------2)
-- [I received a bounty of $60 for finding a critical bug in the patient management system.](https://infosecwriteups.com/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e?source=rss-f84eab03c7fe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
