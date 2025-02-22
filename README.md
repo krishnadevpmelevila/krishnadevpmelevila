@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How I was able to access permanently deleted files from Google Drive?](https://infosecwriteups.com/how-i-was-able-to-access-permanently-deleted-files-from-google-drive-6f252fb1e64d?source=rss-f84eab03c7fe------2)
+- [How I was able to access permanently deleted files from Google Drive?](https://krishnadevpmelevila.medium.com/how-i-was-able-to-access-permanently-deleted-files-from-google-drive-6f252fb1e64d?source=rss-f84eab03c7fe------2)
 - [I Changed Someone’s Profile Picture… And They Had No Idea!!](https://krishnadevpmelevila.medium.com/i-changed-someones-profile-picture-and-they-had-no-idea-a1dc621d12c4?source=rss-f84eab03c7fe------2)
 - [HOW I HACKED NASA?](https://infosecwriteups.com/how-i-hacked-nasa-0715b6b5d7b8?source=rss-f84eab03c7fe------2)
 - [How I was able to find BAC on the University website leading to result dumping?](https://infosecwriteups.com/how-i-was-able-to-find-bac-on-the-university-website-leading-to-result-dumping-36e1f35fbecd?source=rss-f84eab03c7fe------2)
